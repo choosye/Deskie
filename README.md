@@ -2,6 +2,7 @@
 Half Life Hack Club Week 2 - Desk Organiser 
 
 <img width="754" height="613" alt="Screenshot 2026-10-19 at 4 13 51 AM" src="https://github.com/user-attachments/assets/f76204d4-05a5-4d18-bd9a-2e99bb97e02e" />
+
 Deskie is a custom 3D-printed modular desk organiser to make space for my messy desk, and allow me to focus again!
 
 ## What is is
