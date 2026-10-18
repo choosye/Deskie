@@ -14,15 +14,15 @@
 
 ## Contents
 
-1. [2026-10-18 – 16/8: Designing and Prototyping!](#2026-10-18-168-designing-and-prototyping)
+1. [2026-10-18 – 16/10: Designing and Prototyping!](#2026-10-18-1610-designing-and-prototyping)
 
 ## Design
 
-### 2026-10-18 – 16/8: Designing and Prototyping!
+### 2026-10-18 – 16/10: Designing and Prototyping!
 
 **3h**
 
-16/8: Designing and Prototyping!
+16/10: Designing and Prototyping!
 
 For this week’s CAD, I decided to make a desk organiser!
 ![IMG_7009](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/26dd15ebe8d0730f560aad373db0cfa14240295e993a9f556b80d966dd549b19.jpg)
