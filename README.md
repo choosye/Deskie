@@ -22,7 +22,7 @@ Further improvements and customisations may happen as I continue experimenting w
 - Fusion 360 - Used to create and model the desk organiser and its modular components
 
 ## Repository Contents
-- [CAD (f3d)](CAD(f3d)/) - Native Fusion 360 files for editing the original designs
-- [CAD (step)](CAD(step)/) - STEP files for compatibility with other CAD software
-- [Printable Models (stl)](PrintableModels(stl)/) - STL files ready to be sliced for 3D printing
+- [CAD (.f3d)](CAD(.f3d)/) - Native Fusion 360 files for editing the original designs
+- [CAD (.step)](CAD(.step)/) - STEP files for compatibility with other CAD software
+- [Printable Models (.stl)](PrintableModels(.stl)/) - STL files ready to be sliced for 3D printing
 - [BOM.csv](BOM.csv) - Bill of materials listing the parts and materials used in the project
